@@ -1,0 +1,156 @@
+/*Header styles*/
+.navigation-block{
+	display: inline-block;
+	height: 81px;
+}
+.logo{	
+	vertical-align: middle;
+	margin-left: 95px;
+	margin-right: 88px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	}
+
+.nav{
+	display: inline-block;
+	vertical-align: middle;
+}
+.navigation-bar1{
+	display: inline-block;
+	margin-right: 52px;
+}
+.navigation-bar2{
+	display: inline-block;
+	margin-right: 57px;
+
+}
+.navigation-bar3{
+	display: inline-block;
+    margin-right: 58px;
+
+
+}
+.navigation-bar4{
+	display: inline-block;
+	
+}
+.main-page{
+	position: relative;
+}
+.Banner-image{
+    width:1360px;
+    
+}
+.main-title{
+font-size: 78.74px;
+position: absolute;
+top: 294.2px;
+left: 415.8px;
+color: #FFFFFF;
+}
+.after-main{
+font-size: 18;
+position: absolute;
+top: 416.6px;
+left: 526.8px;
+color: #FFFFFF;
+}
+body{
+	height: 1500px;
+}
+/* start section */
+.section-class{
+	display: inline-block;
+	margin-top: 80px;
+}
+.left-text{
+	width: 241px;
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 80px;
+}
+.disco{
+	margin-bottom: 2.2px;
+	font-size: 16px;
+	color: #8D8D8D;
+}
+.hot{
+	margin-bottom: 39.1px;
+	font-size: 26px;
+	color: #1A1A1B;
+}
+.left-block{
+	position: relative;
+	width: 269px;
+	display: inline-block;
+	margin-left: 59px;
+	vertical-align: top;
+}
+.on-image{
+	position: absolute;
+	top: 26px;
+	left: 59px;
+	font-size: 18px;
+}
+.ipsum-text{
+	font-size: 16px;
+	margin-top: 60px;
+}
+.middle-block{
+	width: 269px;
+	display: inline-block;
+	margin: 0 31px;
+}
+.hotel{
+	margin: 20.4px 7.8px;
+	font-size: 18px;
+	color: #1A1A1B;
+}
+.right-block{
+	width: 269px;
+	display: inline-block;
+}
+.family-trip{
+	margin: 20.4px 7.8px;
+	font-size: 18px;
+	color: #1A1A1B;
+}
+/*Start second blocks*/
+.left-block1{
+	position: relative;
+	display: inline-block;
+	width: 269px;
+	margin-left: 385px;
+	vertical-align: top;
+	margin-top: 21.6px;
+}
+.cruise{
+	position: absolute;
+	font-size: 18px;
+	top: 24.9px;
+	left: 75.5px;
+}
+.ipsum-text1{
+	margin-top: 60px;
+}
+.middle-block1{
+	display: inline-block;
+	width: 269px;
+	margin: 21.6px 31px;
+	vertical-align: top;
+}
+.fire-camp{
+	margin: 20.3px 7.8px;
+	font-size: 18px;
+	color: #1A1A1B;
+}
+.right-block1{
+	display: inline-block;
+	width: 269px;
+	margin-top: 21.6px;
+}
+.corporate{
+	margin: 20.3px 7.8px;
+	font-size: 18px;
+	color: #1A1A1B;
+}
